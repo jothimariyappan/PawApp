@@ -1,0 +1,624 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18A93429296F21300036C2E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A93428296F21300036C2E7 /* AppDelegate.swift */; };
+		18A9342B296F21300036C2E7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9342A296F21300036C2E7 /* SceneDelegate.swift */; };
+		18A9342D296F21300036C2E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9342C296F21300036C2E7 /* ViewController.swift */; };
+		18A93430296F21300036C2E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A9342E296F21300036C2E7 /* Main.storyboard */; };
+		18A93433296F21300036C2E7 /* PawApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18A93431296F21300036C2E7 /* PawApp.xcdatamodeld */; };
+		18A93435296F21320036C2E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A93434296F21320036C2E7 /* Assets.xcassets */; };
+		18A93438296F21320036C2E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A93436296F21320036C2E7 /* LaunchScreen.storyboard */; };
+		18A93443296F21330036C2E7 /* PawAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A93442296F21330036C2E7 /* PawAppTests.swift */; };
+		18A9344D296F21330036C2E7 /* PawAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9344C296F21330036C2E7 /* PawAppUITests.swift */; };
+		18A9344F296F21330036C2E7 /* PawAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9344E296F21330036C2E7 /* PawAppUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		18A9343F296F21330036C2E7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 18A9341D296F21300036C2E7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18A93424296F21300036C2E7;
+			remoteInfo = PawApp;
+		};
+		18A93449296F21330036C2E7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 18A9341D296F21300036C2E7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18A93424296F21300036C2E7;
+			remoteInfo = PawApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		18A93425296F21300036C2E7 /* PawApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PawApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18A93428296F21300036C2E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		18A9342A296F21300036C2E7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		18A9342C296F21300036C2E7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		18A9342F296F21300036C2E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		18A93432296F21300036C2E7 /* PawApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PawApp.xcdatamodel; sourceTree = "<group>"; };
+		18A93434296F21320036C2E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		18A93437296F21320036C2E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		18A93439296F21320036C2E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18A9343E296F21330036C2E7 /* PawAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PawAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		18A93442296F21330036C2E7 /* PawAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PawAppTests.swift; sourceTree = "<group>"; };
+		18A93448296F21330036C2E7 /* PawAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PawAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		18A9344C296F21330036C2E7 /* PawAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PawAppUITests.swift; sourceTree = "<group>"; };
+		18A9344E296F21330036C2E7 /* PawAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PawAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18A93422296F21300036C2E7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18A9343B296F21330036C2E7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18A93445296F21330036C2E7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		18A9341C296F21300036C2E7 = {
+			isa = PBXGroup;
+			children = (
+				18A93427296F21300036C2E7 /* PawApp */,
+				18A93441296F21330036C2E7 /* PawAppTests */,
+				18A9344B296F21330036C2E7 /* PawAppUITests */,
+				18A93426296F21300036C2E7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		18A93426296F21300036C2E7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18A93425296F21300036C2E7 /* PawApp.app */,
+				18A9343E296F21330036C2E7 /* PawAppTests.xctest */,
+				18A93448296F21330036C2E7 /* PawAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		18A93427296F21300036C2E7 /* PawApp */ = {
+			isa = PBXGroup;
+			children = (
+				18A93428296F21300036C2E7 /* AppDelegate.swift */,
+				18A9342A296F21300036C2E7 /* SceneDelegate.swift */,
+				18A9342C296F21300036C2E7 /* ViewController.swift */,
+				18A9342E296F21300036C2E7 /* Main.storyboard */,
+				18A93434296F21320036C2E7 /* Assets.xcassets */,
+				18A93436296F21320036C2E7 /* LaunchScreen.storyboard */,
+				18A93439296F21320036C2E7 /* Info.plist */,
+				18A93431296F21300036C2E7 /* PawApp.xcdatamodeld */,
+			);
+			path = PawApp;
+			sourceTree = "<group>";
+		};
+		18A93441296F21330036C2E7 /* PawAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				18A93442296F21330036C2E7 /* PawAppTests.swift */,
+			);
+			path = PawAppTests;
+			sourceTree = "<group>";
+		};
+		18A9344B296F21330036C2E7 /* PawAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				18A9344C296F21330036C2E7 /* PawAppUITests.swift */,
+				18A9344E296F21330036C2E7 /* PawAppUITestsLaunchTests.swift */,
+			);
+			path = PawAppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18A93424296F21300036C2E7 /* PawApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18A93452296F21330036C2E7 /* Build configuration list for PBXNativeTarget "PawApp" */;
+			buildPhases = (
+				18A93421296F21300036C2E7 /* Sources */,
+				18A93422296F21300036C2E7 /* Frameworks */,
+				18A93423296F21300036C2E7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PawApp;
+			productName = PawApp;
+			productReference = 18A93425296F21300036C2E7 /* PawApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		18A9343D296F21330036C2E7 /* PawAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18A93455296F21330036C2E7 /* Build configuration list for PBXNativeTarget "PawAppTests" */;
+			buildPhases = (
+				18A9343A296F21330036C2E7 /* Sources */,
+				18A9343B296F21330036C2E7 /* Frameworks */,
+				18A9343C296F21330036C2E7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				18A93440296F21330036C2E7 /* PBXTargetDependency */,
+			);
+			name = PawAppTests;
+			productName = PawAppTests;
+			productReference = 18A9343E296F21330036C2E7 /* PawAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		18A93447296F21330036C2E7 /* PawAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18A93458296F21330036C2E7 /* Build configuration list for PBXNativeTarget "PawAppUITests" */;
+			buildPhases = (
+				18A93444296F21330036C2E7 /* Sources */,
+				18A93445296F21330036C2E7 /* Frameworks */,
+				18A93446296F21330036C2E7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				18A9344A296F21330036C2E7 /* PBXTargetDependency */,
+			);
+			name = PawAppUITests;
+			productName = PawAppUITests;
+			productReference = 18A93448296F21330036C2E7 /* PawAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18A9341D296F21300036C2E7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					18A93424296F21300036C2E7 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					18A9343D296F21330036C2E7 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 18A93424296F21300036C2E7;
+					};
+					18A93447296F21330036C2E7 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 18A93424296F21300036C2E7;
+					};
+				};
+			};
+			buildConfigurationList = 18A93420296F21300036C2E7 /* Build configuration list for PBXProject "PawApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 18A9341C296F21300036C2E7;
+			productRefGroup = 18A93426296F21300036C2E7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18A93424296F21300036C2E7 /* PawApp */,
+				18A9343D296F21330036C2E7 /* PawAppTests */,
+				18A93447296F21330036C2E7 /* PawAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		18A93423296F21300036C2E7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18A93438296F21320036C2E7 /* LaunchScreen.storyboard in Resources */,
+				18A93435296F21320036C2E7 /* Assets.xcassets in Resources */,
+				18A93430296F21300036C2E7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18A9343C296F21330036C2E7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18A93446296F21330036C2E7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		18A93421296F21300036C2E7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18A93433296F21300036C2E7 /* PawApp.xcdatamodeld in Sources */,
+				18A9342D296F21300036C2E7 /* ViewController.swift in Sources */,
+				18A93429296F21300036C2E7 /* AppDelegate.swift in Sources */,
+				18A9342B296F21300036C2E7 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18A9343A296F21330036C2E7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18A93443296F21330036C2E7 /* PawAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18A93444296F21330036C2E7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18A9344D296F21330036C2E7 /* PawAppUITests.swift in Sources */,
+				18A9344F296F21330036C2E7 /* PawAppUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		18A93440296F21330036C2E7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18A93424296F21300036C2E7 /* PawApp */;
+			targetProxy = 18A9343F296F21330036C2E7 /* PBXContainerItemProxy */;
+		};
+		18A9344A296F21330036C2E7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18A93424296F21300036C2E7 /* PawApp */;
+			targetProxy = 18A93449296F21330036C2E7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		18A9342E296F21300036C2E7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18A9342F296F21300036C2E7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		18A93436296F21320036C2E7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18A93437296F21320036C2E7 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		18A93450296F21330036C2E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		18A93451296F21330036C2E7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		18A93453296F21330036C2E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6VGWYDBQ54;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PawApp/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JOTECH.PawApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		18A93454296F21330036C2E7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6VGWYDBQ54;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PawApp/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JOTECH.PawApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		18A93456296F21330036C2E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6VGWYDBQ54;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JOTECH.PawAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PawApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PawApp";
+			};
+			name = Debug;
+		};
+		18A93457296F21330036C2E7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6VGWYDBQ54;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JOTECH.PawAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PawApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PawApp";
+			};
+			name = Release;
+		};
+		18A93459296F21330036C2E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6VGWYDBQ54;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JOTECH.PawAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PawApp;
+			};
+			name = Debug;
+		};
+		18A9345A296F21330036C2E7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6VGWYDBQ54;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = JOTECH.PawAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PawApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		18A93420296F21300036C2E7 /* Build configuration list for PBXProject "PawApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18A93450296F21330036C2E7 /* Debug */,
+				18A93451296F21330036C2E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18A93452296F21330036C2E7 /* Build configuration list for PBXNativeTarget "PawApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18A93453296F21330036C2E7 /* Debug */,
+				18A93454296F21330036C2E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18A93455296F21330036C2E7 /* Build configuration list for PBXNativeTarget "PawAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18A93456296F21330036C2E7 /* Debug */,
+				18A93457296F21330036C2E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18A93458296F21330036C2E7 /* Build configuration list for PBXNativeTarget "PawAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18A93459296F21330036C2E7 /* Debug */,
+				18A9345A296F21330036C2E7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		18A93431296F21300036C2E7 /* PawApp.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				18A93432296F21300036C2E7 /* PawApp.xcdatamodel */,
+			);
+			currentVersion = 18A93432296F21300036C2E7 /* PawApp.xcdatamodel */;
+			path = PawApp.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 18A9341D296F21300036C2E7 /* Project object */;
+}
