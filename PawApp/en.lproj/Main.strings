@@ -1,0 +1,624 @@
+
+/* Class = "UILabel"; text = "Product Description"; ObjectID = "05T-KW-LQf"; */
+"05T-KW-LQf.text" = "Product Description";
+
+/* Class = "UILabel"; text = "Edit"; ObjectID = "0ct-7s-58B"; */
+"0ct-7s-58B.text" = "Edit";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "0e7-fh-9dB"; */
+"0e7-fh-9dB.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0e7-fh-9dB"; */
+"0e7-fh-9dB.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "0ng-gR-d4u"; */
+"0ng-gR-d4u.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0ng-gR-d4u"; */
+"0ng-gR-d4u.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "0qp-Sa-tPR"; */
+"0qp-Sa-tPR.text" = "Address";
+
+/* Class = "UITextField"; text = " "; ObjectID = "2Aj-ND-B7M"; */
+"2Aj-ND-B7M.text" = " ";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "2Cs-39-yB2"; */
+"2Cs-39-yB2.text" = "About";
+
+/* Class = "UILabel"; text = "Kg"; ObjectID = "2VG-1T-Bfg"; */
+"2VG-1T-Bfg.text" = "Kg";
+
+/* Class = "UIButton"; configuration.title = "Explore Products"; ObjectID = "377-Mx-CVC"; */
+"377-Mx-CVC.configuration.title" = "Explore Products";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "377-Mx-CVC"; */
+"377-Mx-CVC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Wishlist"; ObjectID = "3EV-nr-68U"; */
+"3EV-nr-68U.text" = "Wishlist";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "4I6-gi-CCl"; */
+"4I6-gi-CCl.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4I6-gi-CCl"; */
+"4I6-gi-CCl.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "4gt-aO-yC3"; */
+"4gt-aO-yC3.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4gt-aO-yC3"; */
+"4gt-aO-yC3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Order Placed"; ObjectID = "4lG-54-eh6"; */
+"4lG-54-eh6.text" = "Order Placed";
+
+/* Class = "UILabel"; text = "Expected    15 / 01 /2023"; ObjectID = "4zr-6O-uyW"; */
+"4zr-6O-uyW.text" = "Expected    15 / 01 /2023";
+
+/* Class = "UILabel"; text = "Paid"; ObjectID = "5ix-E2-imC"; */
+"5ix-E2-imC.text" = "Paid";
+
+/* Class = "UILabel"; text = "Home Address"; ObjectID = "64i-6V-zBl"; */
+"64i-6V-zBl.text" = "Home Address";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7ED-dE-Vng"; */
+"7ED-dE-Vng.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7Yy-E9-0gv"; */
+"7Yy-E9-0gv.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "₹ 1299"; ObjectID = "7ae-4u-usl"; */
+"7ae-4u-usl.text" = "₹ 1299";
+
+/* Class = "UITextField"; placeholder = "Search Product or Animal"; ObjectID = "7hY-hu-Ij0"; */
+"7hY-hu-Ij0.placeholder" = "Search Product or Animal";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "7zL-Wj-0kD"; */
+"7zL-Wj-0kD.text" = "Or";
+
+/* Class = "UILabel"; text = "Cat(s)"; ObjectID = "86Y-HX-twU"; */
+"86Y-HX-twU.text" = "Cat(s)";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "8ab-5V-IAN"; */
+"8ab-5V-IAN.text" = ":";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8zn-GC-c5T"; */
+"8zn-GC-c5T.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Wednesday 15 January"; ObjectID = "9JX-Ct-NSn"; */
+"9JX-Ct-NSn.text" = "Wednesday 15 January";
+
+/* Class = "UITabBarItem"; title = "Cart"; ObjectID = "9g9-gm-KSB"; */
+"9g9-gm-KSB.title" = "Cart";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "A01-iC-jd4"; */
+"A01-iC-jd4.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A01-iC-jd4"; */
+"A01-iC-jd4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "AZl-2M-Jgn"; */
+"AZl-2M-Jgn.text" = ":";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B4L-mk-Pb1"; */
+"B4L-mk-Pb1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "  Password  "; ObjectID = "BED-Bv-fak"; */
+"BED-Bv-fak.text" = "  Password  ";
+
+/* Class = "UIButton"; configuration.title = "Create Account"; ObjectID = "BNO-zt-FdW"; */
+"BNO-zt-FdW.configuration.title" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BNO-zt-FdW"; */
+"BNO-zt-FdW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Order Shipped"; ObjectID = "BT3-ts-F4Q"; */
+"BT3-ts-F4Q.text" = "Order Shipped";
+
+/* Class = "UILabel"; text = "Dog Care"; ObjectID = "BdD-W1-tKF"; */
+"BdD-W1-tKF.text" = "Dog Care";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BmC-e2-eub"; */
+"BmC-e2-eub.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Dog(s)"; ObjectID = "CAX-e8-JQx"; */
+"CAX-e8-JQx.text" = "Dog(s)";
+
+/* Class = "UIButton"; configuration.title = "Add Cart"; ObjectID = "CDB-oN-UHQ"; */
+"CDB-oN-UHQ.configuration.title" = "Add Cart";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CDB-oN-UHQ"; */
+"CDB-oN-UHQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "Cac-0Z-MNe"; */
+"Cac-0Z-MNe.text" = "Total Price";
+
+/* Class = "UIButton"; configuration.title = "Add Cart"; ObjectID = "CkA-4F-uZ2"; */
+"CkA-4F-uZ2.configuration.title" = "Add Cart";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CkA-4F-uZ2"; */
+"CkA-4F-uZ2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "4.2"; ObjectID = "D1j-Q2-6bz"; */
+"D1j-Q2-6bz.text" = "4.2";
+
+/* Class = "UILabel"; text = "Paid"; ObjectID = "D1n-lS-im9"; */
+"D1n-lS-im9.text" = "Paid";
+
+/* Class = "UILabel"; text = "In Stock"; ObjectID = "EHA-7A-ifT"; */
+"EHA-7A-ifT.text" = "In Stock";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "EgY-Yo-GMo"; */
+"EgY-Yo-GMo.text" = "FAQ";
+
+/* Class = "UILabel"; text = "Order Shipped"; ObjectID = "Eh8-4N-2Fs"; */
+"Eh8-4N-2Fs.text" = "Order Shipped";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "F8k-8U-lat"; */
+"F8k-8U-lat.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "F8k-8U-lat"; */
+"F8k-8U-lat.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Revies & Rating"; ObjectID = "F9B-Xc-osu"; */
+"F9B-Xc-osu.text" = "Revies & Rating";
+
+/* Class = "UILabel"; text = "Paw"; ObjectID = "FXR-A9-RqK"; */
+"FXR-A9-RqK.text" = "Paw";
+
+/* Class = "UILabel"; text = "Joined on 01/10/2023"; ObjectID = "FdP-HE-6oS"; */
+"FdP-HE-6oS.text" = "Joined on 01/10/2023";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "FiP-fD-y7x"; */
+"FiP-fD-y7x.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FiP-fD-y7x"; */
+"FiP-fD-y7x.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Forget Password"; ObjectID = "Fpv-sO-jMs"; */
+"Fpv-sO-jMs.text" = "Forget Password";
+
+/* Class = "UIButton"; configuration.title = "Reason"; ObjectID = "GZD-Pr-NPG"; */
+"GZD-Pr-NPG.configuration.title" = "Reason";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GZD-Pr-NPG"; */
+"GZD-Pr-NPG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Delivery Expected"; ObjectID = "GZT-S1-SAA"; */
+"GZT-S1-SAA.text" = "Delivery Expected";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "GfP-aH-bMT"; */
+"GfP-aH-bMT.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Start exploring"; ObjectID = "HHy-SS-c45"; */
+"HHy-SS-c45.text" = "Start exploring";
+
+/* Class = "UILabel"; text = "Why?"; ObjectID = "HK8-XT-oqm"; */
+"HK8-XT-oqm.text" = "Why?";
+
+/* Class = "UILabel"; text = "Royal Canin Pellet Dog \nFood Maxi Adult"; ObjectID = "HSE-be-Zic"; */
+"HSE-be-Zic.text" = "Royal Canin Pellet Dog \nFood Maxi Adult";
+
+/* Class = "UILabel"; text = "Order Placed"; ObjectID = "IPW-JL-yKI"; */
+"IPW-JL-yKI.text" = "Order Placed";
+
+/* Class = "UILabel"; text = "Delivery Expected"; ObjectID = "Ig5-OF-wRg"; */
+"Ig5-OF-wRg.text" = "Delivery Expected";
+
+/* Class = "UIButton"; configuration.title = "Change delivery address                        "; ObjectID = "J5x-Y3-N0K"; */
+"J5x-Y3-N0K.configuration.title" = "Change delivery address                        ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "J5x-Y3-N0K"; */
+"J5x-Y3-N0K.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "UPI"; ObjectID = "JAo-s8-hai"; */
+"JAo-s8-hai.text" = "UPI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "K9Q-p8-rcY"; */
+"K9Q-p8-rcY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Login to continue exploring"; ObjectID = "KEg-e1-iWC"; */
+"KEg-e1-iWC.text" = "Login to continue exploring";
+
+/* Class = "UIButton"; configuration.title = "  Login  with Google"; ObjectID = "KUt-ZV-Z2o"; */
+"KUt-ZV-Z2o.configuration.title" = "  Login  with Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KUt-ZV-Z2o"; */
+"KUt-ZV-Z2o.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Explore Products"; ObjectID = "KX1-Dh-p1f"; */
+"KX1-Dh-p1f.configuration.title" = "Explore Products";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KX1-Dh-p1f"; */
+"KX1-Dh-p1f.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Kws-4o-9Re"; */
+"Kws-4o-9Re.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kws-4o-9Re"; */
+"Kws-4o-9Re.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Kit Cat Classic Chicken Premium Adult Dry Cat Food"; ObjectID = "L8Z-Rg-qSy"; */
+"L8Z-Rg-qSy.text" = "Kit Cat Classic Chicken Premium Adult Dry Cat Food";
+
+/* Class = "UILabel"; text = "Personalize"; ObjectID = "LbP-xV-oON"; */
+"LbP-xV-oON.text" = "Personalize";
+
+/* Class = "UILabel"; text = "Payment Info"; ObjectID = "Lks-pa-4ON"; */
+"Lks-pa-4ON.text" = "Payment Info";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "Lxb-gp-vXU"; */
+"Lxb-gp-vXU.text" = "3";
+
+/* Class = "UILabel"; text = "High-quality, crunchy, balanced & delicious"; ObjectID = "MW6-c5-pe1"; */
+"MW6-c5-pe1.text" = "High-quality, crunchy, balanced & delicious";
+
+/* Class = "UILabel"; text = "1400"; ObjectID = "Mej-ju-eZt"; */
+"Mej-ju-eZt.text" = "1400";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Mgn-0J-KVA"; */
+"Mgn-0J-KVA.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mgn-0J-KVA"; */
+"Mgn-0J-KVA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "COD"; ObjectID = "Oby-ZO-Rub"; */
+"Oby-ZO-Rub.text" = "COD";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "PFx-JQ-Uvn"; */
+"PFx-JQ-Uvn.text" = "John Doe";
+
+/* Class = "UILabel"; text = "Your account"; ObjectID = "Pc8-c0-Fxx"; */
+"Pc8-c0-Fxx.text" = "Your account";
+
+/* Class = "UILabel"; text = "₹ 2999"; ObjectID = "R6m-Vg-KeD"; */
+"R6m-Vg-KeD.text" = "₹ 2999";
+
+/* Class = "UILabel"; text = "1400"; ObjectID = "R9d-XD-yvO"; */
+"R9d-XD-yvO.text" = "1400";
+
+/* Class = "UILabel"; text = "Nothing to show here"; ObjectID = "RF2-o4-hcp"; */
+"RF2-o4-hcp.text" = "Nothing to show here";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "RXK-fs-B64"; */
+"RXK-fs-B64.text" = ":";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "S7e-fu-Knw"; */
+"S7e-fu-Knw.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "S7e-fu-Knw"; */
+"S7e-fu-Knw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "  Your name  "; ObjectID = "Sle-1W-Cqd"; */
+"Sle-1W-Cqd.text" = "  Your name  ";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "Tf1-AS-rpD"; */
+"Tf1-AS-rpD.text" = "Delivery";
+
+/* Class = "UILabel"; text = "  Password  "; ObjectID = "UUe-G3-eyy"; */
+"UUe-G3-eyy.text" = "  Password  ";
+
+/* Class = "UILabel"; text = "Orders"; ObjectID = "Uqw-X1-A7h"; */
+"Uqw-X1-A7h.text" = "Orders";
+
+/* Class = "UITabBarItem"; title = "wish"; ObjectID = "Ut0-vI-VZr"; */
+"Ut0-vI-VZr.title" = "wish";
+
+/* Class = "UILabel"; text = "1202 XXXX XXXX XXXX"; ObjectID = "VVe-fX-erP"; */
+"VVe-fX-erP.text" = "1202 XXXX XXXX XXXX";
+
+/* Class = "UILabel"; text = "Order Packed"; ObjectID = "VX8-04-exW"; */
+"VX8-04-exW.text" = "Order Packed";
+
+/* Class = "UIButton"; configuration.title = "Continue"; ObjectID = "Vp3-wj-5d9"; */
+"Vp3-wj-5d9.configuration.title" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Vp3-wj-5d9"; */
+"Vp3-wj-5d9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Write a review"; ObjectID = "WO6-Uw-N3m"; */
+"WO6-Uw-N3m.configuration.title" = "Write a review";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WO6-Uw-N3m"; */
+"WO6-Uw-N3m.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WSZ-Gt-pvN"; */
+"WSZ-Gt-pvN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "  Username  "; ObjectID = "X6D-yk-pgT"; */
+"X6D-yk-pgT.text" = "  Username  ";
+
+/* Class = "UILabel"; text = "Hello, Welcome"; ObjectID = "XWf-k3-k0O"; */
+"XWf-k3-k0O.text" = "Hello, Welcome";
+
+/* Class = "UILabel"; text = "MRP:"; ObjectID = "Xqm-Ap-p6h"; */
+"Xqm-Ap-p6h.text" = "MRP:";
+
+/* Class = "UILabel"; text = "Or"; ObjectID = "ZAk-9W-YL0"; */
+"ZAk-9W-YL0.text" = "Or";
+
+/* Class = "UILabel"; text = "Kit Cat Classic Chicken Premium Adult Dry Cat Food"; ObjectID = "Zfc-sL-2nJ"; */
+"Zfc-sL-2nJ.text" = "Kit Cat Classic Chicken Premium Adult Dry Cat Food";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "aN8-Qg-5Pu"; */
+"aN8-Qg-5Pu.text" = ":";
+
+/* Class = "UILabel"; text = "Wednesday 15 January"; ObjectID = "aNM-xW-NOC"; */
+"aNM-xW-NOC.text" = "Wednesday 15 January";
+
+/* Class = "UILabel"; text = "Reason For Cancellation"; ObjectID = "aNq-60-V79"; */
+"aNq-60-V79.text" = "Reason For Cancellation";
+
+/* Class = "UILabel"; text = "4.2"; ObjectID = "abm-PV-rTS"; */
+"abm-PV-rTS.text" = "4.2";
+
+/* Class = "UILabel"; text = "Orders"; ObjectID = "aiG-zx-X7r"; */
+"aiG-zx-X7r.text" = "Orders";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "aiz-PE-sqQ"; */
+"aiz-PE-sqQ.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aiz-PE-sqQ"; */
+"aiz-PE-sqQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ZIP Code"; ObjectID = "as0-ZI-uFF"; */
+"as0-ZI-uFF.text" = "ZIP Code";
+
+/* Class = "UILabel"; text = "10 / 23"; ObjectID = "bDO-vX-lMO"; */
+"bDO-vX-lMO.text" = "10 / 23";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cfR-c6-cjp"; */
+"cfR-c6-cjp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Wish"; ObjectID = "cmx-1v-PS4"; */
+"cmx-1v-PS4.text" = "Wish";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "csl-Ty-Pnc"; */
+"csl-Ty-Pnc.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "csl-Ty-Pnc"; */
+"csl-Ty-Pnc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "d9p-hr-256"; */
+"d9p-hr-256.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "d9p-hr-256"; */
+"d9p-hr-256.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "12 / 01 /2023"; ObjectID = "db5-uu-YDP"; */
+"db5-uu-YDP.text" = "12 / 01 /2023";
+
+/* Class = "UILabel"; text = "What kind of pet do you have?"; ObjectID = "djt-QA-iTa"; */
+"djt-QA-iTa.text" = "What kind of pet do you have?";
+
+/* Class = "UILabel"; text = "Order Packed"; ObjectID = "e0L-AW-9Nv"; */
+"e0L-AW-9Nv.text" = "Order Packed";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "eS4-le-nch"; */
+"eS4-le-nch.text" = "Delivery";
+
+/* Class = "UILabel"; text = "Happy to see you back"; ObjectID = "ekG-KI-Bah"; */
+"ekG-KI-Bah.text" = "Happy to see you back";
+
+/* Class = "UILabel"; text = "₹ 1299"; ObjectID = "etq-z6-zBr"; */
+"etq-z6-zBr.text" = "₹ 1299";
+
+/* Class = "UILabel"; text = "12 / 01 /2023"; ObjectID = "f0x-im-LNQ"; */
+"f0x-im-LNQ.text" = "12 / 01 /2023";
+
+/* Class = "UITextField"; text = " "; ObjectID = "fGg-tI-rh4"; */
+"fGg-tI-rh4.text" = " ";
+
+/* Class = "UILabel"; text = "Orders"; ObjectID = "fJD-Xl-V9s"; */
+"fJD-Xl-V9s.text" = "Orders";
+
+/* Class = "UILabel"; text = "Delivery Expected"; ObjectID = "gny-6O-T8O"; */
+"gny-6O-T8O.text" = "Delivery Expected";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hA7-N9-gN7"; */
+"hA7-N9-gN7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Kit Cat natural premium cat food was created by our nutritionists who are also cat lovers and made with the goodness of carefully selected natural ingredients which contains no artificial colouring. Our Kit Cat complete & balanced diet offers your cat a pH level balance wholesome nutrition to support a healthy lifestyle. With selected quality meat containing essential vitamins, our Kit Cat formula also has an optimal ration of omega- to omega-6 fatty acids that promotes a healthy heart, skin and coat for your cats. In addition, this diet contains fructooligosaccharides which promotes a healthier digestive track and taurine for healthy eyes."; ObjectID = "hlL-pH-w09"; */
+"hlL-pH-w09.text" = "Kit Cat natural premium cat food was created by our nutritionists who are also cat lovers and made with the goodness of carefully selected natural ingredients which contains no artificial colouring. Our Kit Cat complete & balanced diet offers your cat a pH level balance wholesome nutrition to support a healthy lifestyle. With selected quality meat containing essential vitamins, our Kit Cat formula also has an optimal ration of omega- to omega-6 fatty acids that promotes a healthy heart, skin and coat for your cats. In addition, this diet contains fructooligosaccharides which promotes a healthier digestive track and taurine for healthy eyes.";
+
+/* Class = "UILabel"; text = "₹ 1299"; ObjectID = "iBz-Fo-0j6"; */
+"iBz-Fo-0j6.text" = "₹ 1299";
+
+/* Class = "UIButton"; configuration.title = "Set"; ObjectID = "iaF-Zm-mGZ"; */
+"iaF-Zm-mGZ.configuration.title" = "Set";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iaF-Zm-mGZ"; */
+"iaF-Zm-mGZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ifG-Pq-8Kr"; */
+"ifG-Pq-8Kr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "4.2"; ObjectID = "igb-Q2-dJK"; */
+"igb-Q2-dJK.text" = "4.2";
+
+/* Class = "UILabel"; text = "Kit Cat Classic Chicken \nPremium Adult Dry Cat Food"; ObjectID = "iiD-da-iQc"; */
+"iiD-da-iQc.text" = "Kit Cat Classic Chicken \nPremium Adult Dry Cat Food";
+
+/* Class = "UILabel"; text = "Netbanking"; ObjectID = "jlS-iU-E79"; */
+"jlS-iU-E79.text" = "Netbanking";
+
+/* Class = "UILabel"; text = "Wednesday 15 January"; ObjectID = "jsV-BD-PO0"; */
+"jsV-BD-PO0.text" = "Wednesday 15 January";
+
+/* Class = "UILabel"; text = "  Username  "; ObjectID = "kgG-L0-g23"; */
+"kgG-L0-g23.text" = "  Username  ";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "l1y-NA-SA9"; */
+"l1y-NA-SA9.title" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Text here"; ObjectID = "l9V-JV-k6G"; */
+"l9V-JV-k6G.placeholder" = "Text here";
+
+/* Class = "UILabel"; text = "₹ 1299"; ObjectID = "lcR-zS-M6n"; */
+"lcR-zS-M6n.text" = "₹ 1299";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "mQB-ah-Lbz"; */
+"mQB-ah-Lbz.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mQB-ah-Lbz"; */
+"mQB-ah-Lbz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "  Email  "; ObjectID = "mqU-6S-lMz"; */
+"mqU-6S-lMz.text" = "  Email  ";
+
+/* Class = "UILabel"; text = "Nothing to show here"; ObjectID = "mxs-2k-HUw"; */
+"mxs-2k-HUw.text" = "Nothing to show here";
+
+/* Class = "UILabel"; text = "In Stock"; ObjectID = "nDa-SL-p4V"; */
+"nDa-SL-p4V.text" = "In Stock";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "nXf-9D-V74"; */
+"nXf-9D-V74.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nXf-9D-V74"; */
+"nXf-9D-V74.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Checkout"; ObjectID = "naR-jS-4ev"; */
+"naR-jS-4ev.configuration.title" = "Checkout";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "naR-jS-4ev"; */
+"naR-jS-4ev.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Others"; ObjectID = "naq-5V-PhU"; */
+"naq-5V-PhU.text" = "Others";
+
+/* Class = "UILabel"; text = "( Incl. of all taxes)"; ObjectID = "nbs-3p-bT4"; */
+"nbs-3p-bT4.text" = "( Incl. of all taxes)";
+
+/* Class = "UILabel"; text = "Payments"; ObjectID = "nzd-6I-Go2"; */
+"nzd-6I-Go2.text" = "Payments";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oBo-Wz-sOg"; */
+"oBo-Wz-sOg.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "oNH-Vs-dfB"; */
+"oNH-Vs-dfB.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oNH-Vs-dfB"; */
+"oNH-Vs-dfB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Payment Info"; ObjectID = "onv-XC-HH4"; */
+"onv-XC-HH4.text" = "Payment Info";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "ptW-9a-vdk"; */
+"ptW-9a-vdk.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ptW-9a-vdk"; */
+"ptW-9a-vdk.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qVm-44-iP7"; */
+"qVm-44-iP7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Orders"; ObjectID = "rbP-9r-NdP"; */
+"rbP-9r-NdP.text" = "Orders";
+
+/* Class = "UILabel"; text = "Unavailable"; ObjectID = "sRV-LC-1Q3"; */
+"sRV-LC-1Q3.text" = "Unavailable";
+
+/* Class = "UILabel"; text = "I accept terms and  conditions"; ObjectID = "scL-94-ZgG"; */
+"scL-94-ZgG.text" = "I accept terms and  conditions";
+
+/* Class = "UILabel"; text = "Payment Info"; ObjectID = "tkv-IS-l2k"; */
+"tkv-IS-l2k.text" = "Payment Info";
+
+/* Class = "UILabel"; text = "Latest Arrivals"; ObjectID = "u8Z-pI-tJe"; */
+"u8Z-pI-tJe.text" = "Latest Arrivals";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uB9-QK-bR7"; */
+"uB9-QK-bR7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Cat food"; ObjectID = "uI6-8t-r6G"; */
+"uI6-8t-r6G.text" = "Cat food";
+
+/* Class = "UILabel"; text = "Credit / Debit Card"; ObjectID = "utv-G1-ih0"; */
+"utv-G1-ih0.text" = "Credit / Debit Card";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "uwa-0i-6lw"; */
+"uwa-0i-6lw.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uwa-0i-6lw"; */
+"uwa-0i-6lw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Paid"; ObjectID = "w5F-8u-0Hg"; */
+"w5F-8u-0Hg.text" = "Paid";
+
+/* Class = "UILabel"; text = "Dog Care"; ObjectID = "wJW-bT-Lcx"; */
+"wJW-bT-Lcx.text" = "Dog Care";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wR6-po-2vy"; */
+"wR6-po-2vy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "In Stock"; ObjectID = "wac-cH-KxA"; */
+"wac-cH-KxA.text" = "In Stock";
+
+/* Class = "UILabel"; text = "Dog Safe Harness"; ObjectID = "wfC-7h-oVw"; */
+"wfC-7h-oVw.text" = "Dog Safe Harness";
+
+/* Class = "UIButton"; configuration.title = "cancel"; ObjectID = "wl7-Bu-U0g"; */
+"wl7-Bu-U0g.configuration.title" = "cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wl7-Bu-U0g"; */
+"wl7-Bu-U0g.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "  Login with Google"; ObjectID = "wl9-a0-gFZ"; */
+"wl9-a0-gFZ.configuration.title" = "  Login with Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wl9-a0-gFZ"; */
+"wl9-a0-gFZ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wqE-Wj-weK"; */
+"wqE-Wj-weK.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "wtt-2S-Ocq"; */
+"wtt-2S-Ocq.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wtt-2S-Ocq"; */
+"wtt-2S-Ocq.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "xGz-co-Dz4"; */
+"xGz-co-Dz4.configuration.title" = "Sign up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xGz-co-Dz4"; */
+"xGz-co-Dz4.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "xNl-Qp-JC4"; */
+"xNl-Qp-JC4.title" = "Home";
+
+/* Class = "UILabel"; text = "Customer support"; ObjectID = "xQu-Us-0m3"; */
+"xQu-Us-0m3.text" = "Customer support";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xXN-Or-QwX"; */
+"xXN-Or-QwX.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "xYe-NF-p3G"; */
+"xYe-NF-p3G.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xYe-NF-p3G"; */
+"xYe-NF-p3G.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Kit Cat Classic Chicken Premium Adult Dry Cat Food"; ObjectID = "xmw-cW-wja"; */
+"xmw-cW-wja.text" = "Kit Cat Classic Chicken Premium Adult Dry Cat Food";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yTk-tm-zKM"; */
+"yTk-tm-zKM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "yVX-sC-rOG"; */
+"yVX-sC-rOG.text" = ":";
+
+/* Class = "UILabel"; text = "Expected    15 / 01 /2023"; ObjectID = "z8l-pL-cfe"; */
+"z8l-pL-cfe.text" = "Expected    15 / 01 /2023";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "ziD-iY-GPR"; */
+"ziD-iY-GPR.text" = ":";
+
+/* Class = "UILabel"; text = "Dog Safe Harness"; ObjectID = "zn8-BI-43a"; */
+"zn8-BI-43a.text" = "Dog Safe Harness";
+
+/* Class = "UILabel"; text = "  Confirm Password  "; ObjectID = "zwL-IH-HIC"; */
+"zwL-IH-HIC.text" = "  Confirm Password  ";
